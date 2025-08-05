@@ -8,9 +8,8 @@ This project aims to
 3. extract the filtered data into csv. format for further usage.
 
 ## Raw Data Format
----
 | date (yyyy-mm-dd) | time (hh:mm:ss.xxx) | epoch (int) | mote (int) | tempurature (real) | humidity (real) | light (real) | voltage (real} |
----
+
 ## Data Collection Information
 Sensor: Mica2Dot sensors with weather boards.
 Information Collected: topology information, along with humidity, temperature, light and voltage values.
